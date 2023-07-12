@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.mexicanpepe.cool/mexicanpepe)
+![Leetcode Stats](https://leetcard.mexicanpepe/mexicanpepe)
 
 <!--
 **mexicanpepe/mexicanpepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
