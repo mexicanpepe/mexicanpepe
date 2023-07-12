@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.mexicanpepe/mexicanpepe)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mexicanpepe)](https://github.com/mexicanpepe/leetcode-stats)
 
 <!--
 **mexicanpepe/mexicanpepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
