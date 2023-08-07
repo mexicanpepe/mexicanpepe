@@ -1,9 +1,8 @@
 <img width="600" alt="Screenshot 2023-07-30 at 1 40 31 PM" src="https://github.com/mexicanpepe/mexicanpepe/assets/104655832/426625f7-6399-476c-a749-ca0acc08f13c">
 
-# Hi, Im ***Joseph***
+# Hi, Im ***Joseph*** ☕️
 
-KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mexicanpepe&theme=dark)](https://github.com/mexicanpepe/leetcode-stats)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/mexicanpepe?theme=wtf&font=Tomorrow)
 
 <!--
 **mexicanpepe/mexicanpepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
