@@ -1,5 +1,8 @@
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mexicanpepe&theme=dark)](https://github.com/mexicanpepe/leetcode-stats)
 
+[![![Screenshot 2023-08-07 at 10 20 01 AM](https://github.com/mexicanpepe/mexicanpepe/assets/104655832/426625f7-6399-476c-a749-ca0acc08f13c)
+
+
+KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mexicanpepe&theme=dark)](https://github.com/mexicanpepe/leetcode-stats)
 <!--
 **mexicanpepe/mexicanpepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
