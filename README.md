@@ -1,4 +1,4 @@
-<img width="800" alt="Screenshot 2023-07-30 at 1 40 31 PM" src="https://github.com/mexicanpepe/mexicanpepe/assets/104655832/2e6df576-a650-4fb9-998b-25afbe28c90e">
+<img width="850" alt="Screenshot 2023-07-30 at 1 40 31 PM" src="https://github.com/mexicanpepe/mexicanpepe/assets/104655832/2e6df576-a650-4fb9-998b-25afbe28c90e">
 
 # Hi, Im ***Joseph*** ☕️
 ## About Me
