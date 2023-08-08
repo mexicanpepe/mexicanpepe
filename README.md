@@ -2,6 +2,13 @@
 
 # Hi, Im ***Joseph*** ☕️
 ## About Me
+Hey there! I'm a passionate software engineer with an aptitude for designing and building innovative solutions to combat modern challenges. My diverse background includes experience in finance as a mortgage loan officer, which has provided me with a unique perspective and deep understanding of cutting-edge tools that have a significant impact on both consumers and businesses.
+
+As a representative of a historically underrepresented population in the tech industry, I am deeply passionate about promoting diversity and inclusion in the workforce. I firmly believe that diverse teams are the key to unlocking innovation and driving meaningful change. By embracing different perspectives, experiences, and backgrounds, we can create a more equitable and inclusive tech community that empowers everyone to thrive.
+
+As a software engineer, I pride myself on driving tangible results and collaborating with teams to achieve success. I thrive in taking on complex challenges and respond dynamically to tailor solutions that align with each team or client's specific goals.
+
+In my free time I enjoy going on hikes with my dog friends, playing sports, and giving my baby nephews the attention they deserve.  
 
 ## Languages and Tools
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -21,7 +28,9 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mexicanpepe?theme=wtf&font=Tomorrow)
+
 
 <!--
 **mexicanpepe/mexicanpepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
